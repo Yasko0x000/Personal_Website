@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "titre": "Dashboard de Monitoring IT",
+        "date": "Fév 2024 - Juin 2024",
+        "description": "Développement d'un tableau de bord KPI orienté IT pour Forvia. Intégration des données opérationnelles.",
+        "image": "assets/img/dashboard-preview.jpg",
+        "tags": ["IT", "KPI", "Web"],
+        "lien": "https://github.com/Yasko0x000/Stage_Local_IT_Forvia"
+    },
+    {
+        "id": 2,
+        "titre": "Solar Synch (IoT)",
+        "date": "Jan 2023 - Mars 2023",
+        "description": "Solution de mesure de courant sur Raspberry Pi avec intégration MQTT et Home Assistant.",
+        "image": "assets/img/solar-synch.jpg",
+        "tags": ["IoT", "Raspberry Pi", "Python"],
+        "lien": "https://github.com/Yasko0x000/Projet_RaspberryPi_Synchroniseur"
+    },
+    {
+        "id": 3,
+        "titre": "Simulations de Pentest",
+        "date": "En Cours",
+        "description": "Entraînement Hack The Box et CTF. Reconnaissance et exploitation de failles.",
+        "image": "assets/img/pentest.jpg",
+        "tags": ["Cyber", "Pentest", "CTF"],
+        "lien": "#"
+    }
+]
